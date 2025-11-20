@@ -1,0 +1,3 @@
+git add .
+git commit -m "🚀 триггер запуска"
+git push origin main
