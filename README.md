@@ -1,2 +1,0 @@
-# WordReplacementBot
-WordReplacementBot
